@@ -1,0 +1,8 @@
+body {background-color:grey;}
+li {background-color: purple;}
+li.li1 {background-color: orange;}
+p#para1 {
+	color:green;
+	font-family: Calibri;
+}
+p.para2 {color:yellow;}
